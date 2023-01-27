@@ -14,7 +14,7 @@
 
 # Who can be key of dict
 
-Any type of object exclude list and dict
+Any type of object exclude list, dict and set.
 
 # Decorators
 
